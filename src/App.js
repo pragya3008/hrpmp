@@ -9,7 +9,7 @@ class App extends Component {
 constructor(){
 super();
 this.state={
-appName: "Neural-PMP",
+appName: "hrpmp",
 home: false
 }
 }
