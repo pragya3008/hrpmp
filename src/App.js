@@ -20,6 +20,7 @@ return (
 <div className="off-canvas-content" data-off-canvas-content>
 <MobileHeader name={this.state.appName}/>
 <Header name={this.state.appName}/>
+<h1>testing</h1>
 <Routes name={this.state.appName}/>
 <hr/>
 <Footer/>
