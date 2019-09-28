@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hrpmp/static/css/main.1a95efe8.chunk.css",
+    "main.js": "/hrpmp/static/js/main.9f17f6f1.chunk.js",
+    "main.js.map": "/hrpmp/static/js/main.9f17f6f1.chunk.js.map",
+    "runtime~main.js": "/hrpmp/static/js/runtime~main.87f88af1.js",
+    "runtime~main.js.map": "/hrpmp/static/js/runtime~main.87f88af1.js.map",
+    "static/js/2.400d268a.chunk.js": "/hrpmp/static/js/2.400d268a.chunk.js",
+    "static/js/2.400d268a.chunk.js.map": "/hrpmp/static/js/2.400d268a.chunk.js.map",
+    "index.html": "/hrpmp/index.html",
+    "precache-manifest.db230cba795763cc238ea336e48fbdab.js": "/hrpmp/precache-manifest.db230cba795763cc238ea336e48fbdab.js",
+    "service-worker.js": "/hrpmp/service-worker.js",
+    "static/css/main.1a95efe8.chunk.css.map": "/hrpmp/static/css/main.1a95efe8.chunk.css.map"
+  }
+}
